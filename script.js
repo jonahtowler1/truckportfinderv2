@@ -7,11 +7,11 @@ fetch('./data/truck-ports.json')
     truckData = data;
 
     const makes = [...new Set(
-      data.map(x => x.make)
+      data.map(item => item.make)
     )].sort();
 
     const years = [...new Set(
-      data.map(x => x.year)
+      data.map(item => item.year)
     )].sort((a, b) => a - b);
 
     const makeSelect = document.getElementById("make");
@@ -41,7 +41,9 @@ fetch('./data/truck-ports.json')
 
   })
   .catch(error => {
+
     console.error("Error loading truck data:", error);
+
   });
 
 document
@@ -71,9 +73,9 @@ function searchPort() {
   }
 
   const match =
-    truckData.find(x =>
-      x.make === make &&
-      x.year === year
+    truckData.find(item =>
+      item.make === make &&
+      item.year === year
     );
 
   if (!match) {
@@ -91,69 +93,66 @@ function searchPort() {
   result.innerHTML = `
     <div class="result-card">
 
-      <div class="result-header">
+      <div class="result-top">
 
-        <h2>${match.year} ${match.make}</h2>
+        <div>
 
-        <span class="port-pill">
+          <div class="truck-title">
+            ${match.year} ${match.make}
+          </div>
+
+          <div class="truck-subtitle">
+            Diagnostic Port Information
+          </div>
+
+        </div>
+
+        <div class="port-tag">
           ${match.portType}
-        </span>
-
-      </div>
-
-      <div class="result-grid">
-
-        <div class="info-box">
-
-          <div class="info-label">
-            Diagnostic Port
-          </div>
-
-          <div class="info-value">
-            ${match.portType}
-          </div>
-
-        </div>
-
-        <div class="info-box">
-
-          <div class="info-label">
-            Pin Count
-          </div>
-
-          <div class="info-value">
-            ${match.pins ?? "Unknown"}
-          </div>
-
         </div>
 
       </div>
 
-      <div class="recommendation">
+      <div class="detail-row">
+
+        <span>Port Type</span>
+
+        <strong>
+          ${match.portType}
+        </strong>
+
+      </div>
+
+      <div class="detail-row">
+
+        <span>Pin Count</span>
+
+        <strong>
+          ${match.pins ?? "Unknown"}
+        </strong>
+
+      </div>
+
+      <div class="recommendation-box">
 
         ${
           match.adapterRequired
           ? `
-          <div class="recommendation-title">
-            Adapter Information
-          </div>
+            <strong>Adapter Recommendation</strong>
 
-          <p>
-            Modern ELDs, telematics devices, and scan tools
-            typically require a
-            <strong>${match.recommendedAdapter}</strong>.
-          </p>
+            <p>
+              Most modern ELDs, telematics systems,
+              and scan tools require a
+              <strong>${match.recommendedAdapter}</strong>.
+            </p>
           `
           : `
-          <div class="recommendation-title">
-            Good News
-          </div>
+            <strong>No Adapter Needed</strong>
 
-          <p>
-            This truck uses a standard
-            <strong>9-Pin J1939</strong> connector.
-            Most modern diagnostic tools connect directly.
-          </p>
+            <p>
+              This truck uses a standard
+              9-Pin J1939 diagnostic connector.
+            </p>
           `
         }
 
