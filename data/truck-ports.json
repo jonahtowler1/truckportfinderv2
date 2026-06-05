@@ -1,1 +1,1946 @@
-
+[
+  {
+    "year": 2000,
+    "make": "Peterbilt",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Peterbilt",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Peterbilt",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Peterbilt",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2011,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2012,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2013,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2014,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2015,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2016,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2017,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2018,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2019,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2020,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2021,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2022,
+    "make": "Peterbilt",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2023,
+    "make": "Peterbilt",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Peterbilt",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Peterbilt",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Peterbilt",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Kenworth",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Kenworth",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Kenworth",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Kenworth",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2011,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2012,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2013,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2014,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2015,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2016,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2017,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2018,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2019,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2020,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2021,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2022,
+    "make": "Kenworth",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2023,
+    "make": "Kenworth",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Kenworth",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Kenworth",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Kenworth",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "International",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "International",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "International",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "International",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2011,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2012,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2013,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2014,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2015,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2016,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2017,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2018,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2019,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2020,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2021,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2022,
+    "make": "International",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2023,
+    "make": "International",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "International",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "International",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "International",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Freightliner",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Freightliner",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Freightliner",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Freightliner",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2011,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2012,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2013,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2014,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2015,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2016,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2017,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2018,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2019,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2020,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2021,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2022,
+    "make": "Freightliner",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2023,
+    "make": "Freightliner",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Freightliner",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Freightliner",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Freightliner",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Western Star",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Western Star",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Western Star",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Western Star",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2011,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2012,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2013,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2014,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2015,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2016,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2017,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2018,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2019,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2020,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2021,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2022,
+    "make": "Western Star",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2023,
+    "make": "Western Star",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Western Star",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Western Star",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Western Star",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Hino/Isuzu",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2001,
+    "make": "Hino/Isuzu",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2002,
+    "make": "Hino/Isuzu",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2003,
+    "make": "Hino/Isuzu",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2004,
+    "make": "Hino/Isuzu",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2006,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2007,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2008,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2009,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2010,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2011,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2012,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2013,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2014,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2015,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2016,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2017,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2018,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2019,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2020,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2021,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2022,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2023,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Hino/Isuzu",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2001,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2002,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2003,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2004,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Light Duty",
+    "portType": "Unknown",
+    "pins": null,
+    "adapterRequired": null,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2009,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2010,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2011,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2012,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2013,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2014,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2015,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2016,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2017,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2018,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2019,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2020,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2021,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2022,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2023,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Light Duty",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Volvo",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Volvo",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Volvo",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Volvo",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2005,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2006,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2007,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2008,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2009,
+    "make": "Volvo",
+    "portType": "9-Pin J1939",
+    "pins": 9,
+    "adapterRequired": false,
+    "recommendedAdapter": null
+  },
+  {
+    "year": 2010,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2011,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2012,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2013,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2014,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2015,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2016,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2017,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2018,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2019,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2020,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2021,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2022,
+    "make": "Volvo",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2023,
+    "make": "Volvo",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Volvo",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Volvo",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Volvo",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2000,
+    "make": "Mack",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2001,
+    "make": "Mack",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2002,
+    "make": "Mack",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2003,
+    "make": "Mack",
+    "portType": "6-Pin J1708",
+    "pins": 6,
+    "adapterRequired": true,
+    "recommendedAdapter": "6-Pin to 9-Pin"
+  },
+  {
+    "year": 2004,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2005,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2006,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2007,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2008,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2009,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2010,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2011,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2012,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2013,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2014,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2015,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2016,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2017,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2018,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2019,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2020,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2021,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2022,
+    "make": "Mack",
+    "portType": "OBDII",
+    "pins": 16,
+    "adapterRequired": true,
+    "recommendedAdapter": "OBDII to 9-Pin"
+  },
+  {
+    "year": 2023,
+    "make": "Mack",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2024,
+    "make": "Mack",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2025,
+    "make": "Mack",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  },
+  {
+    "year": 2026,
+    "make": "Mack",
+    "portType": "14-Pin",
+    "pins": 14,
+    "adapterRequired": true,
+    "recommendedAdapter": "14-Pin to 9-Pin"
+  }
+]
