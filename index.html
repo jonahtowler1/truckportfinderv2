@@ -1,1 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <title>Truck Port Finder</title>
+
+  <meta name="description"
+        content="Find the diagnostic port on your truck by make and year.">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <div class="logo">
+      🚛 Truck Port Finder
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+
+  <div class="container">
+
+    <h1>Find Your Truck's Diagnostic Port</h1>
+
+    <p>
+      Search by make and year to identify the
+      diagnostic connector on your truck.
+    </p>
+
+    <div class="search-card">
+
+      <select id="make">
+        <option value="">Select Make</option>
+      </select>
+
+      <select id="year">
+        <option value="">Select Year</option>
+      </select>
+
+      <button id="searchBtn">
+        Find My Port
+      </button>
+
+    </div>
+
+    <div id="result"></div>
+
+  </div>
+
+</section>
+
+<section class="supported">
+
+  <div class="container">
+
+    <h2>Supported Manufacturers</h2>
+
+    <div class="make-grid">
+
+      <span>Peterbilt</span>
+      <span>Kenworth</span>
+      <span>Freightliner</span>
+      <span>International</span>
+      <span>Volvo</span>
+      <span>Mack</span>
+      <span>Western Star</span>
+      <span>Hino / Isuzu</span>
+
+    </div>
+
+  </div>
+
+</section>
+
+<footer>
+
+  <div class="container">
+    Truck Port Finder © 2026
+  </div>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
