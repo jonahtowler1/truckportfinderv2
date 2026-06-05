@@ -127,3 +127,67 @@ footer{
     text-align:center;
     color:#64748b;
 }
+
+.result-card{
+    background:white;
+    border-radius:20px;
+    padding:30px;
+    margin-top:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+.result-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:25px;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.truck-title{
+    font-size:32px;
+    font-weight:700;
+}
+
+.truck-subtitle{
+    color:#64748b;
+    margin-top:4px;
+}
+
+.port-tag{
+    background:#2563eb;
+    color:white;
+    padding:10px 18px;
+    border-radius:999px;
+    font-weight:600;
+}
+
+.detail-row{
+    display:flex;
+    justify-content:space-between;
+    padding:15px 0;
+    border-bottom:1px solid #e2e8f0;
+}
+
+.detail-row:last-of-type{
+    border-bottom:none;
+}
+
+.recommendation-box{
+    margin-top:25px;
+    background:#eff6ff;
+    border:1px solid #bfdbfe;
+    padding:20px;
+    border-radius:14px;
+}
+
+.recommendation-box strong{
+    display:block;
+    margin-bottom:10px;
+}
+
+.recommendation-box p{
+    margin:0;
+    line-height:1.6;
+}
